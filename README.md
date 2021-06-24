@@ -15,11 +15,4 @@ Install pip for python2
 Install pip for python3
 -`sudo apt install python3-pip`
 
-Install pygame
--`sudo pip3 install pygame`
--`sudo pip install pygame`
 
-# Contributors 
-### Utkarsh Agarwal
-### Neetha Reddy
-### Nipun Goel
